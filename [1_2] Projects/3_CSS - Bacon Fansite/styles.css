@@ -1,0 +1,13 @@
+h1{
+  color: red;
+  font-size: 100px;
+}
+/* -------------------------------CLASS SELECTOR----------------------------- */
+.bacon{
+  background-color: green;
+
+}
+.broccoli{
+  background-color: red;
+}
+/* -------------------------------ID SELECTOR-------------------------------- */
